@@ -1,0 +1,13 @@
+somador
+
+ula
+
+mux
+
+
+
+mintermo = onde o output e true
+
+
+
+bitwise
