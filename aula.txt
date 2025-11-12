@@ -1,0 +1,4 @@
+
+add $t0, $t0, $t0 # t0 = 4a
+add $t0, $t0, $t0 # t0 = 8a
+add $s1, $t0, $t0 # b = 16a
